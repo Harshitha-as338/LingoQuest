@@ -143,3 +143,4 @@ Contributions to Sakura Study are welcome and encouraged! If you'd like to contr
 ## License
 
 This project is licensed under the MIT License.
+"# LingoQuest" 
